@@ -13,6 +13,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Aa]ssets/[Ff]ree[Aa]ssets/
 *.log
 
 # Memory Profiler generated files
